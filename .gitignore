@@ -10,6 +10,7 @@
 *.kpf
 *.swp
 *.wpr
+pyvenv.cfg
 .*.cfg
 .installed.cfg
 .mr.developer.cfg
@@ -29,10 +30,10 @@ dist/
 var/
 local/
 lib/
+lib64
 include/
 src/
 share/
-
 
 # OSX
 .DS_Store
