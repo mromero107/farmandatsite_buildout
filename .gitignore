@@ -11,6 +11,7 @@
 *.swp
 *.wpr
 pyvenv.cfg
+pip-selfcheck.json
 .*.cfg
 .installed.cfg
 .mr.developer.cfg
