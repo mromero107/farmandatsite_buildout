@@ -1,0 +1,4 @@
+setuptools==41.0.1
+zc.buildout==2.13.2
+cryptacular==1.5.5
+

@@ -1,0 +1,1 @@
+* * * * * cd /var/www/virtualenv/auth;source ../bin/activate;qp var/mail --config etc/qp.ini >> var/qp.log 2>&1
