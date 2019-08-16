@@ -39,3 +39,6 @@ share/
 # OSX
 .DS_Store
 .Python
+
+*.sublime-workspace
+*.sublime-project
